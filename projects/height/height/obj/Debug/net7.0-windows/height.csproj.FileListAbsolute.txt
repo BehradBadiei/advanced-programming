@@ -1,0 +1,17 @@
+C:\Users\bshz2\OneDrive\Desktop\Advanced Programming\projects\height\height\bin\Debug\net7.0-windows\height.exe
+C:\Users\bshz2\OneDrive\Desktop\Advanced Programming\projects\height\height\bin\Debug\net7.0-windows\height.deps.json
+C:\Users\bshz2\OneDrive\Desktop\Advanced Programming\projects\height\height\bin\Debug\net7.0-windows\height.runtimeconfig.json
+C:\Users\bshz2\OneDrive\Desktop\Advanced Programming\projects\height\height\bin\Debug\net7.0-windows\height.dll
+C:\Users\bshz2\OneDrive\Desktop\Advanced Programming\projects\height\height\bin\Debug\net7.0-windows\height.pdb
+C:\Users\bshz2\OneDrive\Desktop\Advanced Programming\projects\height\height\obj\Debug\net7.0-windows\height.csproj.AssemblyReference.cache
+C:\Users\bshz2\OneDrive\Desktop\Advanced Programming\projects\height\height\obj\Debug\net7.0-windows\height.Form1.resources
+C:\Users\bshz2\OneDrive\Desktop\Advanced Programming\projects\height\height\obj\Debug\net7.0-windows\height.csproj.GenerateResource.cache
+C:\Users\bshz2\OneDrive\Desktop\Advanced Programming\projects\height\height\obj\Debug\net7.0-windows\height.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bshz2\OneDrive\Desktop\Advanced Programming\projects\height\height\obj\Debug\net7.0-windows\height.AssemblyInfoInputs.cache
+C:\Users\bshz2\OneDrive\Desktop\Advanced Programming\projects\height\height\obj\Debug\net7.0-windows\height.AssemblyInfo.cs
+C:\Users\bshz2\OneDrive\Desktop\Advanced Programming\projects\height\height\obj\Debug\net7.0-windows\height.csproj.CoreCompileInputs.cache
+C:\Users\bshz2\OneDrive\Desktop\Advanced Programming\projects\height\height\obj\Debug\net7.0-windows\height.dll
+C:\Users\bshz2\OneDrive\Desktop\Advanced Programming\projects\height\height\obj\Debug\net7.0-windows\refint\height.dll
+C:\Users\bshz2\OneDrive\Desktop\Advanced Programming\projects\height\height\obj\Debug\net7.0-windows\height.pdb
+C:\Users\bshz2\OneDrive\Desktop\Advanced Programming\projects\height\height\obj\Debug\net7.0-windows\height.genruntimeconfig.cache
+C:\Users\bshz2\OneDrive\Desktop\Advanced Programming\projects\height\height\obj\Debug\net7.0-windows\ref\height.dll
